@@ -10,5 +10,7 @@ class Sam {
     }
     int x(){
         return 2 *20;
+		
+		
     }
 }
