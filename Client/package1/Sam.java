@@ -9,6 +9,6 @@ class Sam {
         Sam sam = new Sam();
     }
     int x(){
-        return 2;
+        return 2 *20;
     }
 }
